@@ -1,7 +1,5 @@
 # RAG System — AI Policy Q&A
 
-Project for the Deep Learning course (BSc Data Science for Responsible Business, Centrale Lyon 2025–2026).
-
 Built a question-answering system over three AI policy documents using retrieval-augmented generation: the EU AI Act, the OECD AI Principles, and the UNESCO AI Ethics Recommendation.
 
 ---
